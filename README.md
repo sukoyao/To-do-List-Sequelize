@@ -20,7 +20,7 @@
 啟動 MySQL 資料庫，開啟終端機並下載專案，完成後會顯示 Done 訊息
 
 ```
-git clone https://github.com/sukoyao/To-do-List-Sequelize.git
+git clone https://github.com/sukoyao/TodoList1.0.git
 ```
 
 從終端機導入目標檔案，並下載工具包
@@ -69,4 +69,6 @@ node app.js
 ## Contributor
 
 [Yao](https://github.com/sukoyao)
-
+# To-do-List-Sequelize
+# To-do-List-Sequelize
+# To-do-List-Sequelize
