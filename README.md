@@ -69,6 +69,3 @@ node app.js
 ## Contributor
 
 [Yao](https://github.com/sukoyao)
-# To-do-List-Sequelize
-# To-do-List-Sequelize
-# To-do-List-Sequelize
